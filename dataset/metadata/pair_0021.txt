@@ -1,0 +1,6 @@
+pair_id: 21
+architecture: DRAM
+true_x: 94
+true_y: 307
+reference_width: 200
+reference_height: 150
